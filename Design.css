@@ -1,0 +1,52 @@
+body
+{
+	background-color: rgb(250, 249, 247);
+	background-image: url("Background.jpg");
+	background-size: cover;
+	background-position: center;
+}
+#cdd
+{
+	margin: 20px;
+	border-radius: 12px;
+	background-color: rgba(38, 38, 38, 0.93);
+	color: rgb(255,255,242);
+}
+.jumbotron
+{
+	margin-top: 80px;
+	margin-bottom: 20px;
+}
+footer
+{
+	background-color:  rgba(38, 38, 38, 0.93);
+	border-radius: 10px;
+	color: rgb(255,255,242);
+
+}
+.signupcd
+{
+	margin-top: 40px;
+	background-color: #212529;
+	color: white;
+	padding: 10px;
+	border: 1px solid black;
+	border-radius: 5px;
+}
+.symboll
+{
+	margin-top:20px;
+	text-align: center;
+}
+#demo1
+{
+	color: rgb(255,255,242);
+	margin-top: 200px;
+	margin-bottom: 200px;
+	font-family: "Raleway";
+}
+#nvbr
+{
+	background-color: rgba(38, 38, 38, 0.93);
+	color: rgb(255,255,242);
+}
